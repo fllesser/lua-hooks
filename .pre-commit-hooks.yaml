@@ -1,6 +1,6 @@
 - id: echo
   name: echo
-  entry: lua src/echo.lua
+  entry: ./entry.sh
   language: lua
   types: [lua]
   additional_dependencies:
