@@ -1,5 +1,3 @@
-local check = require("luacheck.check")
-print("additional dependencies successfully imported")
-
--- check so lib (todo)
+require("lfs")
+require("luacheck")
 print("Hello, World!")
