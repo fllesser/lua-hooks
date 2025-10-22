@@ -1,5 +1,5 @@
 package = "lua-hooks"
-version = "dev-1"
+version = "1"
 source = {
    url = "git://github.com/example/lua-hooks.git"
 }

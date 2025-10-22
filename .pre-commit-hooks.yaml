@@ -1,6 +1,6 @@
 - id: lua-hooks
   name: lua-hooks
-  entry: ./entry.sh
+  entry: lua src/echo.lua
   language: lua
   types: [lua]
   additional_dependencies:
