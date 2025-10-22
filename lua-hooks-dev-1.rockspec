@@ -10,7 +10,8 @@ description = {
    license = "MIT"
 }
 dependencies = {
-   "lua >= 5.4"
+   "lua >= 5.4",
+   "luafilesystem"
 }
 build = {
    type = "builtin"
