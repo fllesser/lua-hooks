@@ -1,0 +1,7 @@
+- id: echo
+  name: echo
+  entry: lua src/main.lua
+  language: lua
+  types: [lua]
+  additional_dependencies:
+    - "luacheck"
