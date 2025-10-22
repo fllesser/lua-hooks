@@ -13,8 +13,5 @@ dependencies = {
    "lua >= 5.4"
 }
 build = {
-   type = "builtin",
-   modules = {
-      echo = "src/echo.lua"
-   }
+   type = "builtin"
 }
