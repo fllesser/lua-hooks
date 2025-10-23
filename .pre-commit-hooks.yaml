@@ -1,6 +1,6 @@
 - id: lua-hooks
   name: lua-hooks
-  entry: lua -e "require('luacheck'); print('Hello, World!')"
+  entry: lua-hooks
   language: lua
   types: [lua]
   additional_dependencies:
